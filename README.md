@@ -1,11 +1,9 @@
 # Hello Everyone! 
 
+### About Me ----------
 My name is **Fathimatus Zahrotun Nisa'**.<br>
-
 I'm an **Information System** undergraduate student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id/).<br>
-
 I have recently been interested and trying to learn in the fields of Backend Development and Cloud Computing.<br>
-
 I have skills in several programming languages ​​such as **Java, JavaScript, HTML, PHP, CSS.** <br>
 
 Apart from that, I also have several abilities in other fields, for example: <br>
@@ -13,6 +11,18 @@ Apart from that, I also have several abilities in other fields, for example: <br
 * Digital Media (Social Media Management, Content Creation, Documentation and Publication)
 * Other Softskills (Attention to Detail, Patience, Analytical Thinking, Problem-Solving)
 
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/fathimatus-zahrotun-nisa/) account. <br>
+If you are interested in getting to know more about me, kindly reach out to me at my [Linkedin](https://www.linkedin.com/in/fathimatus-zahrotun-nisa/) account. <br>
 
+
+### Stats ----------
+
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api?username=FathimatusZN&show_icons=true"></a></p>
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimatusZN"></a></p> 
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimatusZN"></a></p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimatusZN" />
+</p>
+
+------
 ## Thank you!
