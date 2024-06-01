@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello Everyone! 
 
-<!--
-**FathimatusZN/FathimatusZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Fathimatus Zahrotun Nisa'**.<br>
 
-Here are some ideas to get you started:
+I'm an **Information System** undergraduate student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have recently been interested and trying to learn in the fields of Backend Development and Cloud Computing.<br>
+
+I have skills in several programming languages ​​such as **Java, JavaScript, HTML, PHP, CSS.** <br>
+
+Apart from that, I also have several abilities in other fields, for example: <br>
+* Graphic Design (CorelDraw, Figma, Canva, IbisPaint)
+* Digital Media (Social Media Management, Content Creation, Documentation and Publication)
+* Other Softskills (Attention to Detail, Patience, Analytical Thinking, Problem-Solving)
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/fathimatus-zahrotun-nisa/) account. <br>
+
+## Thank you!
