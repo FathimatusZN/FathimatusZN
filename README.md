@@ -18,5 +18,6 @@ If you are interested in getting to know more about me, kindly reach out to me a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimatusZN" />
 </p>
 
-------
 ## Thank you!
+
+------
