@@ -10,12 +10,12 @@ Apart from that, I also have several abilities in other fields, for example:
 
 If you are interested in getting to know more about me, kindly reach out to me at my [Linkedin](https://www.linkedin.com/in/fathimatus-zahrotun-nisa/) account. <br>
 
-<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api?username=FathimatusZN&show_icons=true"></a></p>
-<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimatusZN"></a></p> 
-<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimatusZN"></a></p>
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api?username=FathimatusZN&show_icons=true&cache_seconds=86400"></a></p>
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimatusZN&cache_seconds=86400"></a></p> 
+<p align="center"><a href="https://github.com/FathimatusZN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimatusZN&cache_seconds=86400"></a></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimatusZN" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimatusZN&cache_seconds=86400" />
 </p>
 
 ## Thank you!
