@@ -30,7 +30,7 @@ I have experience with:
 - **Digital Media**: Social Media Management, Content Creation, Documentation  
 - **Soft Skills**: Attention to Detail, Patience, Analytical Thinking, Problem-Solving
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/fathimatus-zahrotun-nisa/) if you'd like to collaborate or know more!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/fathimatuszn/) if you'd like to collaborate or know more!
 
 ---
 
@@ -56,6 +56,10 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/fathimatus-zahrotun-ni
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FathimatusZN&theme=tokyonight&cache_seconds=3600" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FathimatusZN/FathimatusZN/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
